@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nurkocaturk
 - 👀 I’m interested in improving my coding skills and combining with my molecular biology background. Also interested in disease causing proteins and understanding of how they cause diseases and possible ways to revert disease progression.
 - 🌱 I’m currently learning Phyton.
-- 💞️ I’m looking to collaborate on targeted protein degradation.
 - 📫 How to reach me nkocaturk001@dundee.ac.uk
 
 <!---
